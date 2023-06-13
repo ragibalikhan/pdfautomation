@@ -65,12 +65,15 @@ Before running this project, make sure you have the following:
 
 9. Once the execution completes, the generated PDF will be saved in the specified output file.
 
-Customization
+
+## Customization
+
 You can customize the appearance and layout of the PDF by modifying the code inside the generate_pdf function.
 
 The setFont function can be used to set the font and size for text elements.
 The setFillColor function sets the fill color for shapes and text.
 Adjust the positioning and layout of the elements based on your requirements.
-License
-This project is licensed under the MIT License. See the LICENSE file for more information.
-  
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
